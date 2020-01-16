@@ -2,7 +2,7 @@
 
 Team Rush Hour submission for the BHP Amazon Hackathon 2018. 
 
-The submission was awarded with the Young Innovator Award <img src="https://unearthed.solutions/u/sites/default/files/YoungInnovator.svg" style="width: 5%"/>
+The submission was awarded with the Young Innovator Award <img src="https://unearthed.solutions/u/sites/default/files/YoungInnovator.svg" width="20"/>
 
 Unearthed Perth is a 54-hour open innovation hackathon event that features real data and challenges from BHP Nickel West, and see developers, engineers, data scientists, entrepreneurs, and startups, come together to build a prototype solution over the course of a weekend.
 
